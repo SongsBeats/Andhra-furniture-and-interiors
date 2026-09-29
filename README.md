@@ -5,7 +5,7 @@ Official responsive website for **Andhra Furniture and Interiors** — premier f
 ## 📍 Business Details
 - **Business Name:** Andhra Furniture and Interiors
 - **Category:** Furniture Manufacturer · Home Furniture Shop · Office Furniture Shop
-- **Phone / Call:** [082478 93728](tel:+918247893728)
+- **Phone / Call:** [+91 82478 93728](tel:+918247893728)
 - **WhatsApp:** [+91 82478 93728](https://wa.me/918247893728)
 - **Address:** Do No:146, Srinivas Nagar Bank Colony, Singh Nagar, Vijayawada, Andhra Pradesh 520015
 - **Operating Hours:** Monday to Sunday: 10:00 AM – 8:00 PM (All 7 Days)
